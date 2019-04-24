@@ -1,4 +1,8 @@
 # Commands
+### ox.help
+Links to this page
+### ox.git
+Links to the OXbot GitHub page
 ### ox.play
 play one of the following games:
 #### Tic Tac Toe: ox.play ox
